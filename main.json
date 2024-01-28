@@ -1,8 +1,8 @@
-{
-    "breeds": [
-        {"name": "Bulldog"},
-        {"name": "Labrador"},
-        {"name": "Poodle"}
-    ]
-}
+[
+    {"name": "Bulldog"},
+    {"name": "Labrador"},
+    {"name": "Poodle"}
+    // ... more dog breeds
+]
+
 
